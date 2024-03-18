@@ -1,5 +1,7 @@
 import { useEffect } from 'react'
 
+import Header from '../../Components/Header'
+
 import { getMovies } from '../../services/movie-api'
 
 const Home = () => {
@@ -9,7 +11,10 @@ const Home = () => {
     }, [])
 
     return (
-        <div>Home</div>
+        <>
+            <Header></Header>
+            <div>Home</div>
+        </>
     )
 }
 

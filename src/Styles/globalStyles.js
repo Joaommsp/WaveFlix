@@ -9,7 +9,7 @@ const globalStyles = createGlobalStyle`
   }
   
   body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Kulim Park", sans-serif;
     background-color: #FEFAF9;
     overflow-x: hidden;
   }
