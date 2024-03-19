@@ -10,7 +10,7 @@ const globalStyles = createGlobalStyle`
   
   body {
     font-family: "Kulim Park", sans-serif;
-    background-color: #FEFAF9;
+    background-color: #0D0C11;
     overflow-x: hidden;
   }
 `;
